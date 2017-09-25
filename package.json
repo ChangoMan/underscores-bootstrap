@@ -1,0 +1,17 @@
+{
+  "name": "Bootstrap-Sass-HTML5",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bootstrap-Sass-HTML5",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.1.2"
+  },
+  "scripts": {
+    "devwatch": "gulp watch"
+  }
+}
